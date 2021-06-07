@@ -67,8 +67,9 @@ nav{
 }
 
 .for_me{
-    width: 100%;
+    width: 745px;
     height: 715px;
+    margin-left: 500px;
 }
 
 .for_me_title{
@@ -94,15 +95,16 @@ nav{
 }
 
 .for_me_text{
-    width: 730px;
-    margin-left: 480px;
+    
     margin-top: 25px;
     font-size: 15px;
 }
 
 .for_me input{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
     height: 40px;
-    text-align: center;
     border: 2px solid #6d7682;
     background: url(../img/%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0.jpg) left no-repeat;
     background-size: 15px 15px;
@@ -110,6 +112,6 @@ nav{
     color: #6d7682;
     font-size: 13px;
     padding: 0px 12px 0px 33px;
-    margin-left: 760px;
-    margin-top: 35px;
+    margin-top: 50px;
+    
 }
