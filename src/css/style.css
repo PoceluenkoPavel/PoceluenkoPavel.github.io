@@ -68,11 +68,11 @@ nav{
 
 .for_me{
     width: 745px;
-    height: 715px;
+    height: 550px;
     margin-left: 500px;
 }
 
-.for_me_title{
+.for_me_title h2{
     text-align: center;
     margin-top: 105px;
     font-size: 30px;
@@ -115,3 +115,257 @@ nav{
     margin-top: 50px;
     
 }
+
+.WhatICanDo{
+    width: 100%;
+    height: 499px;
+    background: url(../img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%20%D1%84%D0%BE%D0%BD%D0%B0.jpg);
+    margin-top: 100px;
+    
+}
+
+.WhatICanDo h2{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 90px 0px 0px 0px;
+}
+
+.WhatICanDo_title:after {
+    content: "";
+    display: block;
+    width: 70px;
+    height: 3px;
+    background-color: #d17700;
+    margin: 30px auto 0px;
+}
+
+.WhatICanDo_logo {
+    display: flex;
+    justify-content: center;
+}
+
+.WhatICanDo_item img{
+    margin-top: 50px;
+    padding: 40px 180px;
+}
+
+.WhatICanDo_subtitle {
+    display: flex;
+}
+
+.WhatICanDo_subtitle_item{
+    flex: 1 1 0;
+    margin-top: 20px;
+    text-align: center;
+    color: #cf7600;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.WhatICanDo_subtitle_text{
+    display: flex;
+}
+
+.WhatICanDo_subtitle_text_item{
+    flex: 1 1 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.case{
+    width: 100%;
+    height: 1100px;
+    
+}
+
+.case_title{
+    text-align: center;
+    margin-top: 185px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.case_title:after {
+    content: "";
+    display: block;
+    width: 70px;
+    height: 5px;
+    background-color: #d17700;
+    margin: 30px auto 0px;
+}
+
+.case_subtitle{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 16px;
+}
+
+.case_photo{
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.container{
+    width: 1170px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+.case_footer{
+    
+}
+
+.case_client{
+    float: left;
+}
+
+.case_client h3{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.case_client p{
+    margin-top: 20px;
+}
+
+.case_client input{
+    width: 200px;
+    height: 45px;
+    text-align: center;
+    border: 2px solid #63b5ae;
+    background: none;
+    border-radius: 5px;
+    color: #63b5ae;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 23px 0px 0px 0px;
+}
+
+.case_project{
+    padding-left: 300px;
+}
+
+.case_project h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.case_project{
+    line-height: 1.5;
+}
+
+
+
+.price{
+    margin-top: 200px;
+    width: 100%;
+    height: 700px;
+}
+
+.price_title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
